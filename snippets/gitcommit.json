@@ -35,7 +35,7 @@
         "prefix": "refactor",
         "body": ["refactor(${1:scope}): ${2:title}", "", "$0"]
     },
-    "refactor conventional commit": {
+    "reformat conventional commit": {
         "prefix": "reformat",
         "body": ["reformat(${1:scope}): ${2:title}", "", "$0"]
     },
